@@ -1,0 +1,12 @@
+.navbar{
+    padding: 14px 10px;
+    border-bottom: 2px solid #d2c1c1c4;
+    margin-bottom: 20px;
+}
+.topnav-right {
+    float: right;
+  }
+  .topnav-right a{
+    color: #000;
+    text-decoration: none;
+  }

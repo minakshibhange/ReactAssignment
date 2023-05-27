@@ -1,0 +1,24 @@
+ul{
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+}
+ul li{
+    list-style: none;
+    border: 1px solid #c8c4c4bb;
+    border-radius: 5px;
+    margin: 5px;
+}
+ul li a.nav-link{
+    color:#000;
+}
+
+ul li a:hover{
+    cursor: pointer;
+}
+.another-sidebar-menu{
+    margin-top: 15vw;
+}
+ul li a.active{
+    background-color: #E2ECF2;
+}
